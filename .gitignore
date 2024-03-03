@@ -1,3 +1,4 @@
 # git ignore this #
 .idea/
 __pycache__/
+model/
